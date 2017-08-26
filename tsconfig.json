@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "module": "commonjs",                     /* Specify module code generation: 'commonjs', 'amd', 'system', 'umd', 'es2015', or 'ESNext'. */
+    "target": "es5",                          /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', or 'ESNEXT'. */
+    "noImplicitAny": false,            /* Report error when not all code paths in function return a value. */
+    "sourceMap": false                     /* Generates corresponding '.map' file. */
+    }
+}
